@@ -1,5 +1,4 @@
 import os
-from google import genai
 
 BOT_TOKEN = os.getenv("BOT_TOKEN", "AGAR_LOKAL_BO'LSA_TOKEN")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AGAR_LOKAL_BO'LSA_KEY")
